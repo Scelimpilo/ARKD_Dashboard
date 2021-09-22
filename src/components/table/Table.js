@@ -12,11 +12,11 @@ function createData(name, target, actual,ok,notOk) {
 }
 
 const rows = [
-  createData('Bin Liners', 159, 60, 24, 5),
-  createData('Tail Gates', 237, 90, 37, 43),
-  createData('Canopies', 262, 160, 24, 60),
-  createData('Anotehr project', 305, 37, 67, 43),
-  createData('SEZ', 356, 16.0, 49, 39),
+  createData('COVID-19 Driver Guard', 159, 60, 24, 5),
+  // createData('Tail Gates', 237, 90, 37, 43),
+  // createData('Canopies', 262, 160, 24, 60),
+  // createData('Anotehr project', 305, 37, 67, 43),
+  // createData('SEZ', 356, 16.0, 49, 39),
 ];
 
 export default function DenseTable() {
@@ -26,10 +26,10 @@ export default function DenseTable() {
         <TableHead>
           <TableRow>
             <TableCell>Product </TableCell>
-            <TableCell align="right">Daily Target</TableCell>
-            <TableCell align="right">Actual</TableCell>
-            <TableCell align="right">Total OK</TableCell>
-            <TableCell align="right">Total Not OK</TableCell>
+            <TableCell align="right">DAILY TARGET</TableCell>
+            <TableCell align="right">ACTUAL</TableCell>
+            <TableCell align="right">TOTAL OK</TableCell>
+            <TableCell align="right">TOTAL NOT OK</TableCell>
            
           </TableRow>
         </TableHead>

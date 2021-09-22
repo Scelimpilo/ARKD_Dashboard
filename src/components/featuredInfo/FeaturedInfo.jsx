@@ -23,17 +23,17 @@ export default function FeaturedInfo() {
                 
             </div>
             <div className="featuredItem">
-                <span className="featuredTitle">Actual</span>
+                <span className="featuredTitle">Shift</span>
                 <div className="featuredMoneyContainer">
-                    <span className="featuredMoney">39</span>
+                    <span className="featuredMoney">07:00-15:30</span>
                    
                 </div>
                 
             </div>
             <div className="featuredItem">
-                <span className="featuredTitle">Cost</span>
+                <span className="featuredTitle"></span>
                 <div className="featuredMoneyContainer">
-                    <span className="featuredMoney">R1,225.47</span>
+                    <span className="featuredMoney">LET'S GO GUYS!</span>
                     
                 </div>
                

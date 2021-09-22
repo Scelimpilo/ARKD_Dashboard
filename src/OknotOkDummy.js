@@ -1,37 +1,27 @@
 export const prodData = [
     {
-      "name": "Bin Liners",
-      "ok": 4000,
-      "notOk": 2400
+      "name": "Monday",
+      "ok": 40,
+      "notOk": 15,
     },
     {
-      "name": "Tail Gates",
-      "ok": 3000,
-      "notOk": 1398
+      "name": "Tuesday",
+      "ok": 38,
+      "notOk": 13,
     },
     {
-      "name": "Canopies",
-      "ok": 2000,
-      "notOk": 9800
+      "name": "Wednesday",
+      "ok": 50,
+      "notOk": 1,
     },
     {
-      "name": "Thermoforming",
-      "ok": 2780,
-      "notOk": 3908
+      "name": "Thursday",
+      "ok": 45,
+      "notOk": 2,
     },
     {
-      "name": "ReactJS",
-      "ok": 1890,
-      "notOk": 4800
+      "name": "Friday",
+      "ok": 50,
+      "notOk": 0,
     },
-    {
-      "name": "ReCharts",
-      "ok": 2390,
-      "notOk": 3800
-    },
-    {
-      "name": "JavaScript",
-      "ok": 3490,
-      "notOk": 4300
-    }
   ]
